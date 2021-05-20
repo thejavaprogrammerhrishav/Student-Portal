@@ -1,0 +1,12 @@
+html,
+body{
+    background-color: #3d44f8;
+    height: 100vh;
+}
+.primary-background{
+    background: #3d44f8!important;
+}
+
+.clip-style{
+    clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 86%, 68% 95%, 33% 89%, 0 96%, 0 0);
+}
